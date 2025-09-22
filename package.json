@@ -13,7 +13,11 @@
   "dependencies": {
     "@langchain/core": "^0.3.76",
     "@langchain/google-genai": "^0.2.18",
+    "@langchain/langgraph": "^0.4.9",
     "@langchain/mistralai": "^0.2.1",
+    "@langchain/pinecone": "^0.2.0",
+    "@pinecone-database/pinecone": "^5.1.2",
+    "@tavily/core": "^0.5.12",
     "dotenv": "^17.2.2",
     "langchain": "^0.3.34",
     "zod": "^3.25.76"
